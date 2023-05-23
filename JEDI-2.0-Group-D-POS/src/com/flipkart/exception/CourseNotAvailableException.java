@@ -4,7 +4,7 @@ import com.flipkart.constant.ConsoleColors;
 
 /**
  * Exception to check if seats are available for course registration
- * @author siddartha.c
+ * @author vanshika.tibrewal
  *
  */
 public class CourseNotAvailableException extends Exception{

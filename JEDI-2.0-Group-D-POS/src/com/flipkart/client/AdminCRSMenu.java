@@ -31,7 +31,7 @@ import com.flipkart.service.RegistrationInterface;
 import com.flipkart.service.RegistrationOperation;
 
 /**
- * @author siddartha.c
+ * @author nishit.singh
  *
  */
 public class AdminCRSMenu {

@@ -1,14 +1,12 @@
-/**
- * 
- */
+
 package com.flipkart.bean;
 
 import com.flipkart.constant.NotificationTypeConstant;
-
 /**
- * @author siddartha.c
+ * @author vikaskumar.p
  *
  */
+
 
 //GLOBAL VAR
 

@@ -4,7 +4,7 @@ import com.flipkart.constant.ConsoleColors;
 
 /**
  * Exception to check if the professor is not added successfully by admin
- * @author siddartha.c 
+ * @author vanshika.tibrewal
  *
  */
 public class ProfessorNotAddedException extends Exception{

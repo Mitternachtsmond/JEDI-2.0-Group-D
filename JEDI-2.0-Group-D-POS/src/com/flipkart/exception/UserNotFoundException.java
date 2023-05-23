@@ -5,7 +5,7 @@ import com.flipkart.constant.ConsoleColors;
 
 /**
  * Exception to check if user exists 
- * @author siddartha.c 
+ * @author vanshika.tibrewal
  *
  */
 public class UserNotFoundException extends Exception {

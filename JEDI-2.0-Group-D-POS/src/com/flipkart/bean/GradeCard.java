@@ -1,6 +1,10 @@
 package com.flipkart.bean;
 
 import java.util.List;
+/**
+ * @author vikaskumar.p
+ *
+ */
 
 public class GradeCard 
 {

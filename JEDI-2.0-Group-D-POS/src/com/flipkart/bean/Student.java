@@ -5,11 +5,11 @@ package com.flipkart.bean;
 
 import com.flipkart.constant.GenderConstant;
 import com.flipkart.constant.RoleConstant;
-
 /**
- * @author siddartha.c
+ * @author vikaskumar.p
  *
  */
+
 public class Student extends User 
 {
 	private String department;

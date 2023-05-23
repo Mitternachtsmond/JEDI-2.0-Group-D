@@ -1,9 +1,7 @@
 package com.flipkart.constant;
 
 /**
- * 
- * @author siddartha.c
- * Enumeration class for RoleConstant Types
+ * @author kunwar.saraf
  *
  */
 public enum RoleConstant {

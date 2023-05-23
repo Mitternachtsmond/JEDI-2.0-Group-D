@@ -23,7 +23,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * @author siddartha.c
+ * @author vikaskumar.p
  *
  */
 public class StudentCRSMenu {

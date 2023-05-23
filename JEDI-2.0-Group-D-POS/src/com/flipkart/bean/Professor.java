@@ -7,11 +7,12 @@ import java.util.Date;
 
 import com.flipkart.constant.GenderConstant;
 import com.flipkart.constant.RoleConstant;
-
 /**
- * @author siddartha.c
+ * @author vikaskumar.p
  *
  */
+
+
 public class Professor extends User {
 	private String professorID;
 	private String department;

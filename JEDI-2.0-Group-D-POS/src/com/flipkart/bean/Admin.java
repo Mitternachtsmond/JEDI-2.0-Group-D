@@ -4,6 +4,10 @@ import java.util.Date;
 
 import com.flipkart.constant.GenderConstant;
 import com.flipkart.constant.RoleConstant;
+/**
+ * @author vikaskumar.p
+ *
+ */
 
 public class Admin extends User
 {

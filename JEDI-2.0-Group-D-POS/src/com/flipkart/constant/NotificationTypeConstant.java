@@ -4,7 +4,7 @@
 package com.flipkart.constant;
 
 /**
- * @author siddartha.c
+ * @author kunwar.saraf
  *
  */
 public enum NotificationTypeConstant

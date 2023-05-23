@@ -2,7 +2,7 @@ package com.flipkart.exception;
 
 /**
  * Exception to check if student is not registered 
- * @author siddartha.c
+ * @author vanshika.tibrewal
  *
  */
 public class StudentNotRegisteredException extends Exception{

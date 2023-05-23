@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
+/**
+ * @author vikaskumar.p
+ *
+ */
+
+
 public class SemRegistration {
 	
 	int studenID;

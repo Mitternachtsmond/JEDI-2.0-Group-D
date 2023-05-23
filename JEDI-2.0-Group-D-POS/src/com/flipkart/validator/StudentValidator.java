@@ -9,7 +9,7 @@ import com.flipkart.exception.SeatNotAvailableException;
 
 /**
  * 
- * @author siddartha.c
+ * @author nishit.singh
  * Class for Student Validator 
  * 
  */

@@ -17,7 +17,7 @@ import com.flipkart.validator.ProfessorValidator;
 
 
 /**
- * @author siddartha.c
+ * @author vanshika.tibrewal
  *
  */
 public class ProfessorCRSMenu {

@@ -1,9 +1,7 @@
 package com.flipkart.constant;
 
 /**
- * 
- * @author siddartha.c
- * Enumeration class for Mode of Payments
+ * @author kunwar.saraf
  *
  */
 public enum PaymentModeConstant {

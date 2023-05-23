@@ -3,7 +3,7 @@ package com.flipkart.exception;
 import com.flipkart.constant.ConsoleColors;
 
 /**
- * @author siddartha.c 
+ * @author vanshika.tibrewal
  *
  */
 public class UserIdAlreadyInUseException extends Exception{

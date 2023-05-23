@@ -1,9 +1,7 @@
 package com.flipkart.constant;
 
 /**
- * 
- * @author siddartha.c
- * Enumeration class for GenderConstant
+ * @author kunwar.saraf
  *
  */
 public enum GenderConstant {

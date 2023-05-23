@@ -1,7 +1,7 @@
 package com.flipkart.constant;
 
 /**
- * @author nishit.singh
+ * @author kunwar.saraf
  *
  */
 public class ConsoleColors {

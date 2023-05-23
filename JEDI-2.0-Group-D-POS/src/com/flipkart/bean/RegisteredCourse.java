@@ -4,8 +4,8 @@
 package com.flipkart.bean;
 
 
-/*
- * @author siddartha.c
+/**
+ * @author vikaskumar.p
  *
  */
 

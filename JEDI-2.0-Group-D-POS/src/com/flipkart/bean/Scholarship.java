@@ -1,4 +1,8 @@
 package com.flipkart.bean;
+/**
+ * @author vikaskumar.p
+ *
+ */
 
 public class Scholarship {
 	String name;

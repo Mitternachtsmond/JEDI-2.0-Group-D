@@ -2,11 +2,11 @@
  * 
  */
 package com.flipkart.bean;
-
 /**
- * @author siddartha.c
+ * @author vikaskumar.p
  *
  */
+
 public class Grade 
 {
 	private String crsCode;

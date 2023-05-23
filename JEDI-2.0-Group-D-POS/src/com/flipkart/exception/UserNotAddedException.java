@@ -4,7 +4,7 @@ import com.flipkart.constant.ConsoleColors;
 
 /**
  * Exception to check if user cannot be added
- * @author siddartha.c 
+ * @author vanshika.tibrewal
  *
  */
 public class UserNotAddedException extends Exception{

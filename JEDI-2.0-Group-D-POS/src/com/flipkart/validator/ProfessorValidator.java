@@ -8,7 +8,7 @@ import com.flipkart.bean.RegisteredCourse;
 
 /**
  * 
- * @author siddartha.c
+ * @author nishit.singh
  * Class for Professor Validator
  * 
  */
