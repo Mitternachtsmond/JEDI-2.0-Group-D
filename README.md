@@ -1,6 +1,6 @@
- Course Registration System
+ ### Course Registration System
 
-## Directory Structure:
+# Directory Structure:
 - CRS-Flipkart-GroupD-Documentation: This folder houses the JavaDocs-generated documentation for our course registration application.
  - CRS-Flipkart-GroupD-POS: This contains the source code for the application. It contains the following major layers:
   - Beans: The re-usable units of the application
