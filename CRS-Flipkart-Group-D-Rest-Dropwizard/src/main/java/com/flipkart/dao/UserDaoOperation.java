@@ -157,11 +157,13 @@ public class UserDaoOperation implements UserDaoInterface{
 		try {
 			logger.info(userId);
 			//connection=DBUtils.getConnection();
-			System.out.println(connection.isClosed());
+			System.out.println("**********************"+connection.isClosed());
 			PreparedStatement statement = connection.prepareStatement(SQLQueriesConstant.GET_ROLE);
+			System.out.println(SQLQueriesConstant.GET_ROLE);
 			statement.setString(1, userId);
+			System.out.println(statement);
 			ResultSet rs = statement.executeQuery();
-			
+			System.out.println(rs);
 			
 			
 			logger.info("query executed");
